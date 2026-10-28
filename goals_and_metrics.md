@@ -18,7 +18,7 @@
 
 ---
 
-## 🚀 Operational Impact Goals
+##  Operational Impact Goals
 1. **Reduce Planning Bottlenecks:** Cut DHS shelter gap analysis time from hours of manual spreadsheet work down to **instant visual reporting**.
 2. **Offline Field Readiness:** Support pre-calculated emergency routing and printable 1-page shelter briefs for offline responders during power or grid outages.
 3. **Equitable Disaster Response:** Ensure multi-language accessibility and explicit resource matching for vulnerable communities during disaster response.
