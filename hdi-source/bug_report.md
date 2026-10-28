@@ -7,7 +7,7 @@ labels: 'bug, rag, api-resilience, resolved'
 assignees: 'banayatjovanny-sudo, timothy-tunick'
 ---
 
-## 🐛 Bug 1: Unanchored AI Recommendations on Unmatched SOP Queries
+##  Bug 1: Unanchored AI Recommendations on Unmatched SOP Queries
 
 ### Description
 When a user asked the AI assistant an emergency query that did not directly match indexed text in the State EMA Standard Operating Procedures (SOPs), the LLM defaulted to general pre-trained knowledge, creating a risk of inaccurate procedural advice during emergency drills.
@@ -24,7 +24,7 @@ When a user asked the AI assistant an emergency query that did not directly matc
 
 ---
 
-## 🐛 Bug 2: Live NOAA/NWS API Rate-Limiting Causing Dashboard Timeouts
+##  Bug 2: Live NOAA/NWS API Rate-Limiting Causing Dashboard Timeouts
 
 ### Description
 During rapid map updates or multi-user access, repeated direct calls to the live NOAA weather and NWS hazard alert endpoints hit API rate limits (HTTP 429 Too Many Requests), causing the hazard map layer to freeze or fail to load entirely.
